@@ -1,2 +1,5 @@
 /build
 app/src/main/res/values/configuration.xml
+.gradle
+.idea
+local.properties
